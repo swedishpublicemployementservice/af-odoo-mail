@@ -7,7 +7,7 @@
 	 v12.0.0.1 AFC-86  Add Mass mailing template for AF newsletters.\n
 	 v12.0.0.2  This version fixes bug in the template and makes the AF-template be visible beside the other templates.\n
 	 v12.0.1.1.0 Change name\n
-	 v12.0.1.1.2 Added link to view in browser\n
+	 v12.0.1.1.3 Added link to view in browser\n
 	 
     """,
     "license": "AGPL-3",
