@@ -7,7 +7,7 @@
 	"Vertel AB",
     "maintainer": "Swedish Public Employement Service",
     "description": """
-        v12.0.1.0.2 Added tabs to display messages on contact and hr-form \n
+        v12.0.1.0.2 Added tabs to display messages on contact and hr-form 
     """,
     "license": "AGPL-3",
     "website": "https://arbetsformedlingen.se/",
