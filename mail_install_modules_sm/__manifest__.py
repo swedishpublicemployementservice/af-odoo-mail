@@ -2,10 +2,15 @@
 
 {
     "name": "Af Secure Messages Install all modules",
-    "version": "12.0.1.0.1",
+    "version": "12.0.1.0.2",
     "author": "Swedish Public Employement Service",
+    "maintainer": "Swedish Public Employement Service",
+    "contributer": "Swedish Public Employement Service, Vertel AB",
+    "description": """
+        v12.0.1.0.2 Added tabs to display messages on contact and hr-form \N 
+    """,
     "license": "AGPL-3",
-    "website": "https://vertel.se/",
+    "website": "https://arbetsformedlingen.se/",
     "category": "Tools",
     "depends": [
 		"contacts", 
