@@ -3,9 +3,9 @@
 {
     "name": "Af Secure Messages Install all modules",
     "version": "12.0.1.0.2",
-    "author": "Swedish Public Employement Service",
+    "author": "Swedish Public Employement Service,"
+	"Vertel AB",
     "maintainer": "Swedish Public Employement Service",
-    "contributer": "Swedish Public Employement Service, Vertel AB",
     "description": """
         v12.0.1.0.2 Added tabs to display messages on contact and hr-form \N 
     """,
