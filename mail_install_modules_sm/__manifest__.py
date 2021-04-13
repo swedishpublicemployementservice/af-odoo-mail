@@ -10,8 +10,10 @@
     "depends": [
 		"contacts", 
 		"hr", 
-		"mail", 
-			],
+		"hr_employee_mail_client",	# Displayes messages on a tab on the HR-form
+		"mail",
+		"partner_mail_client",		# Displayes messages on a tab on the Contact-form
+		],
     "application": False,
     "installable": True,
 }
