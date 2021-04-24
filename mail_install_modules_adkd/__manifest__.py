@@ -2,11 +2,15 @@
 
 {
     "name": "Af ADKD Install all modules",
-    "version": "12.0.1.0.1",
+    "version": "12.0.1.0.2",
     "author": "Swedish Public Employement Service",
     "license": "AGPL-3",
     "website": "https://arbetsformedlingen.se/",
     "category": "Tools",
+    "description": """
+	 v12.0.1.0.1 New Module.\n
+	 v12.0.1.0.2 Added mass_mailaing_editor\n
+    """,
     "depends": [
 		"mail_autoresponder",		# vertelab/odoo-mail generic module to process automatic newsletters
 		"mail_autoresponder_crm",	# vertelab/odoo-mail CRM-addon to glue the module to CRM-specific views
