@@ -16,6 +16,7 @@
 		"mail_autoresponder_crm",	# vertelab/odoo-mail CRM-addon to glue the module to CRM-specific views
 		"mail_browser_view",		# vertelab/odoo-mail upgraded OCA module display the newsletter-email in the webbrowser
 	    	"mass_mailing_editor_af", 	# vertelab/odoo-mail Module that adds email-editor snippets with custom Af design
+	    	"mail_improved_tracking_value", # oca/social Module that lists changes in fields in a convinient way for audit-loggin
 			],
     "application": False,
     "installable": True,
